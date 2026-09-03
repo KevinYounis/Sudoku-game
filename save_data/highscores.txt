@@ -1,0 +1,6 @@
+Name:	Score:	Time:	Level:	got Hints:
+josh	999	1.841461	really easy	True
+josh	999	1.284224	really easy	True
+josh	996	8.023783	really easy	True
+josh	994	13.814505	really easy	True
+josh	991	20.117388	really easy	True
