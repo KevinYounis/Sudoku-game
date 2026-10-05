@@ -1,10 +1,3 @@
-######################################
-# Introduction to Python Programming #
-# Prof. Dr. Annemarie Friedrich      #
-# FAI Universität Augsburg           #
-# WiSe 2025/26                       #
-# Software Assignment                #
-######################################
 from datetime import timedelta
 
 
